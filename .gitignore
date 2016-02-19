@@ -28,3 +28,6 @@ node_modules
 
 # Environment variables
 .env
+
+# New Relic config
+newrelic.js
