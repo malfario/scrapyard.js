@@ -1,0 +1,4 @@
+scrapyard:
+  build: .
+  ports:
+    - 80:5000
